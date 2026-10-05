@@ -61,6 +61,8 @@ This project was built as an end-to-end iOS development exercise. It includes pr
 
 Issues and pull requests that improve reliability, documentation, accessibility, or the iOS user experience are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Dice App](https://github.com/AlakhiarovSalekh/Dice-App) — Swift iOS dice roller with shake interaction.
