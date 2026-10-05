@@ -1,4 +1,4 @@
-# Habit Tracker
+# Swift UIKit Habit Tracker for iOS
 
 [![Swift](https://img.shields.io/badge/Swift-iOS-F05138?logo=swift&logoColor=white)](https://www.swift.org/)
 [![UIKit](https://img.shields.io/badge/UIKit-iOS-blue)](https://developer.apple.com/documentation/uikit)
