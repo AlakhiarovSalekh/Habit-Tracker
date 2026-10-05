@@ -61,6 +61,12 @@ This project was built as an end-to-end iOS development exercise. It includes pr
 
 Issues and pull requests that improve reliability, documentation, accessibility, or the iOS user experience are welcome.
 
+## More Projects by Salekh
+
+- [Dice App](https://github.com/AlakhiarovSalekh/Dice-App) — Swift iOS dice roller with shake interaction.
+- [Sticky Notes macOS](https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-) — native Swift/AppKit/SwiftUI desktop notes utility.
+- [Notes App](https://github.com/AlakhiarovSalekh/Notes-App) — Android notes app built with Kotlin and Jetpack Compose.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
